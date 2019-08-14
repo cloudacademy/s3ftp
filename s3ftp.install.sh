@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-S3BUCKETNAME=ca-s3fs-bucket2
+S3BUCKETNAME=ca-s3fs-bucket
 S3BUCKETREGION=us-west-2
 FTPUSERNAME=ftpuser1
 FTPPASSWORD=password
